@@ -31,7 +31,7 @@ Welcome to my GitHub profile!
 * Open source contribution
 
 ### Working on
-[Linux System Monitor](https://github.com/blehhz/system-monitor)
+[echo](https://github.com/blehhz/echo)
 
 ## Connect with Me
 * Email: [gordy.ext@proton.me](mailto:gordy.ext@proton.me)
