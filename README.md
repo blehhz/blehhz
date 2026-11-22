@@ -31,7 +31,7 @@ Welcome to my GitHub profile!
 * Open source contribution
 
 ### Working on
-[echo](https://github.com/blehhz/echo)
+[sysm](https://github.com/blehhz/sysm)
 
 ## Connect with Me
 * Email: [gordy.ext@proton.me](mailto:gordy.ext@proton.me)
