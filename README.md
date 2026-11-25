@@ -26,7 +26,7 @@ Welcome to my GitHub profile!
 
 ### Currently Learning
 
-* Web development
+* Cloud Computing
 * System design
 * Open source contribution
 
